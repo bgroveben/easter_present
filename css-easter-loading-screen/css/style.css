@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo);
 body {
-  background-color: #454545;
+  background-color: #0A78BA;
   width: 100vw;
   height: 100vh;
   position: relative;
@@ -26,7 +26,7 @@ body {
 .loading h1 {
   width: 100%;
   text-align: center;
-  color: #fefefe;
+  color: #FFC0CB;
   font-family: "Arvo";
   font-size: 30pt;
   height: 100%;
@@ -44,7 +44,7 @@ body {
   height: 2%;
   z-index: 2;
   position: relative;
-  background-color: #fefefe;
+  background-color: #FFC0CB;
 }
 
 .rabbit-main {
@@ -57,7 +57,7 @@ body {
 }
 .rabbit-main .rabbit-body-part {
   position: absolute;
-  background-color: #fefefe;
+  background-color: #FFC0CB;
 }
 
 .rabbit-main.rabbit-floor {
@@ -90,7 +90,7 @@ body {
   transform: translate3d(0, 0, 0) !important;
 }
 .rabbit-main.rabbit-floor .rabbit-foot .foot-cover {
-  background-color: #454545;
+  background-color: #0A78BA;
   height: 75%;
   width: 110%;
   top: 40%;
@@ -114,7 +114,7 @@ body {
   left: 0%;
 }
 .rabbit-main.rabbit-floor .rabbit-ear .ear-cover {
-  background-color: #454545;
+  background-color: #0A78BA;
   height: 65%;
   width: 110%;
   top: 40%;
